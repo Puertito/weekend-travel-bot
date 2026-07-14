@@ -1,0 +1,847 @@
+{
+    "search_metadata": {
+        "id": "6a5623f988aca48fc3a7e9af",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/kJCtWsGSD1gguU52-UJGXA/6a5623f988aca48fc3a7e9af.json",
+        "created_at": "2026-07-14 11:56:41 UTC",
+        "processed_at": "2026-07-14 11:56:41 UTC",
+        "google_flights_url": "https://www.google.com/travel/flights?hl=en&gl=us&curr=EUR&tfs=CBwQAhoeEgoyMDI2LTA4LTE0agcIARIDVEZOcgcIARIDQkNOGh4SCjIwMjYtMDgtMTZqBwgBEgNCQ05yBwgBEgNURk5AAUgBcAGYAQE&tfu=EgIIAQ",
+        "raw_html_file": "https://serpapi.com/searches/kJCtWsGSD1gguU52-UJGXA/6a5623f988aca48fc3a7e9af.html",
+        "prettify_html_file": "https://serpapi.com/searches/kJCtWsGSD1gguU52-UJGXA/6a5623f988aca48fc3a7e9af.prettify",
+        "total_time_taken": 7.72
+    },
+    "search_parameters": {
+        "engine": "google_flights",
+        "hl": "en",
+        "gl": "us",
+        "departure_id": "TFN",
+        "arrival_id": "BCN",
+        "outbound_date": "2026-08-14",
+        "return_date": "2026-08-16",
+        "currency": "EUR"
+    },
+    "best_flights": [
+        {
+            "flights": [
+                {
+                    "departure_airport": {
+                        "name": "Tenerife North Airport",
+                        "id": "TFN",
+                        "time": "2026-08-14 10:35"
+                    },
+                    "arrival_airport": {
+                        "name": "Josep Tarradellas Barcelona-El Prat Airport",
+                        "id": "BCN",
+                        "time": "2026-08-14 14:55"
+                    },
+                    "duration": 200,
+                    "airplane": "Airbus A321",
+                    "airline": "Vueling",
+                    "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/VY.png",
+                    "travel_class": "Economy",
+                    "flight_number": "VY 3211",
+                    "ticket_also_sold_by": [
+                        "Iberia"
+                    ],
+                    "legroom": "29 in",
+                    "extensions": [
+                        "Below average legroom (29 in)",
+                        "Wi-Fi for a fee",
+                        "In-seat USB outlet",
+                        "Stream media to your device",
+                        "Carbon emissions estimate: 188 kg"
+                    ]
+                }
+            ],
+            "total_duration": 200,
+            "carbon_emissions": {
+                "this_flight": 188000,
+                "typical_for_this_route": 213000,
+                "difference_percent": -12
+            },
+            "price": 284,
+            "type": "Round trip",
+            "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/VY.png",
+            "departure_token": "WyJDalJJVDJwMWVWZFZTbFJzTUdOQlEydFVTVkZDUnkwdExTMHRMUzB0Y0daaVpXMDFNMEZCUVVGQlIzQlhTVjkzU2xWclZ5MUJFZ1pXV1RNeU1URWFDd2p1M1FFUUFob0RSVlZTT0J4dzRmd0IiLFtbIlRGTiIsIjIwMjYtMDgtMTQiLCJCQ04iLG51bGwsIlZZIiwiMzIxMSJdXV0="
+        },
+        {
+            "flights": [
+                {
+                    "departure_airport": {
+                        "name": "Tenerife North Airport",
+                        "id": "TFN",
+                        "time": "2026-08-14 07:00"
+                    },
+                    "arrival_airport": {
+                        "name": "Josep Tarradellas Barcelona-El Prat Airport",
+                        "id": "BCN",
+                        "time": "2026-08-14 11:20"
+                    },
+                    "duration": 200,
+                    "airplane": "Airbus A321",
+                    "airline": "Vueling",
+                    "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/VY.png",
+                    "travel_class": "Economy",
+                    "flight_number": "VY 3213",
+                    "ticket_also_sold_by": [
+                        "Iberia"
+                    ],
+                    "legroom": "29 in",
+                    "extensions": [
+                        "Below average legroom (29 in)",
+                        "Wi-Fi for a fee",
+                        "In-seat USB outlet",
+                        "Stream media to your device",
+                        "Carbon emissions estimate: 188 kg"
+                    ]
+                }
+            ],
+            "total_duration": 200,
+            "carbon_emissions": {
+                "this_flight": 188000,
+                "typical_for_this_route": 213000,
+                "difference_percent": -12
+            },
+            "price": 323,
+            "type": "Round trip",
+            "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/VY.png",
+            "departure_token": "WyJDalJJVDJwMWVWZFZTbFJzTUdOQlEydFVTVkZDUnkwdExTMHRMUzB0Y0daaVpXMDFNMEZCUVVGQlIzQlhTVjkzU2xWclZ5MUJFZ1pXV1RNeU1UTWFDd2lxL0FFUUFob0RSVlZTT0J4d3ZKOEMiLFtbIlRGTiIsIjIwMjYtMDgtMTQiLCJCQ04iLG51bGwsIlZZIiwiMzIxMyJdXV0="
+        },
+        {
+            "flights": [
+                {
+                    "departure_airport": {
+                        "name": "Tenerife North Airport",
+                        "id": "TFN",
+                        "time": "2026-08-14 06:50"
+                    },
+                    "arrival_airport": {
+                        "name": "Adolfo Suárez Madrid-Barajas Airport",
+                        "id": "MAD",
+                        "time": "2026-08-14 10:40"
+                    },
+                    "duration": 170,
+                    "airplane": "Airbus A321neo",
+                    "airline": "Iberia",
+                    "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/IB.png",
+                    "travel_class": "Economy",
+                    "flight_number": "IB 1590",
+                    "legroom": "28 in",
+                    "extensions": [
+                        "Below average legroom (28 in)",
+                        "In-seat USB outlet",
+                        "Stream media to your device",
+                        "Carbon emissions estimate: 148 kg"
+                    ],
+                    "plane_and_crew_by": "Iberia Express"
+                },
+                {
+                    "departure_airport": {
+                        "name": "Adolfo Suárez Madrid-Barajas Airport",
+                        "id": "MAD",
+                        "time": "2026-08-14 11:25"
+                    },
+                    "arrival_airport": {
+                        "name": "Josep Tarradellas Barcelona-El Prat Airport",
+                        "id": "BCN",
+                        "time": "2026-08-14 12:45"
+                    },
+                    "duration": 80,
+                    "airplane": "Airbus A321",
+                    "airline": "Iberia",
+                    "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/IB.png",
+                    "travel_class": "Economy",
+                    "flight_number": "IB 411",
+                    "legroom": "28 in",
+                    "extensions": [
+                        "Below average legroom (28 in)",
+                        "Wi-Fi for a fee",
+                        "In-seat USB outlet",
+                        "Carbon emissions estimate: 68 kg"
+                    ]
+                }
+            ],
+            "layovers": [
+                {
+                    "duration": 45,
+                    "name": "Adolfo Suárez Madrid-Barajas Airport",
+                    "id": "MAD"
+                }
+            ],
+            "total_duration": 295,
+            "carbon_emissions": {
+                "this_flight": 217000,
+                "typical_for_this_route": 213000,
+                "difference_percent": 2
+            },
+            "price": 450,
+            "type": "Round trip",
+            "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/IB.png",
+            "departure_token": "WyJDalJJVDJwMWVWZFZTbFJzTUdOQlEydFVTVkZDUnkwdExTMHRMUzB0Y0daaVpXMDFNMEZCUVVGQlIzQlhTVjkzU2xWclZ5MUJFZ3hKUWpFMU9UQjhTVUkwTVRFYUN3anMzZ0lRQWhvRFJWVlNPQnh3Mm84RCIsW1siVEZOIiwiMjAyNi0wOC0xNCIsIk1BRCIsbnVsbCwiSUIiLCIxNTkwIl0sWyJNQUQiLCIyMDI2LTA4LTE0IiwiQkNOIixudWxsLCJJQiIsIjQxMSJdXV0="
+        }
+    ],
+    "other_flights": [
+        {
+            "flights": [
+                {
+                    "departure_airport": {
+                        "name": "Tenerife North Airport",
+                        "id": "TFN",
+                        "time": "2026-08-14 18:55"
+                    },
+                    "arrival_airport": {
+                        "name": "Josep Tarradellas Barcelona-El Prat Airport",
+                        "id": "BCN",
+                        "time": "2026-08-14 23:15"
+                    },
+                    "duration": 200,
+                    "airplane": "Airbus A320",
+                    "airline": "Vueling",
+                    "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/VY.png",
+                    "travel_class": "Economy",
+                    "flight_number": "VY 3217",
+                    "ticket_also_sold_by": [
+                        "Iberia"
+                    ],
+                    "legroom": "29 in",
+                    "extensions": [
+                        "Below average legroom (29 in)",
+                        "Wi-Fi for a fee",
+                        "In-seat USB outlet",
+                        "Stream media to your device",
+                        "Carbon emissions estimate: 173 kg"
+                    ],
+                    "often_delayed_by_over_30_min": true
+                }
+            ],
+            "total_duration": 200,
+            "carbon_emissions": {
+                "this_flight": 173000,
+                "typical_for_this_route": 213000,
+                "difference_percent": -19
+            },
+            "price": 338,
+            "type": "Round trip",
+            "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/VY.png",
+            "departure_token": "WyJDalJJVDJwMWVWZFZTbFJzTUdOQlEydFVTVkZDUnkwdExTMHRMUzB0Y0daaVpXMDFNMEZCUVVGQlIzQlhTVjkzU2xWclZ5MUJFZ1pXV1RNeU1UY2FDd2lHaUFJUUFob0RSVlZTT0J4dzZhd0MiLFtbIlRGTiIsIjIwMjYtMDgtMTQiLCJCQ04iLG51bGwsIlZZIiwiMzIxNyJdXV0="
+        },
+        {
+            "flights": [
+                {
+                    "departure_airport": {
+                        "name": "Tenerife North Airport",
+                        "id": "TFN",
+                        "time": "2026-08-14 14:50"
+                    },
+                    "arrival_airport": {
+                        "name": "Josep Tarradellas Barcelona-El Prat Airport",
+                        "id": "BCN",
+                        "time": "2026-08-14 19:10"
+                    },
+                    "duration": 200,
+                    "airplane": "Airbus A321",
+                    "airline": "Vueling",
+                    "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/VY.png",
+                    "travel_class": "Economy",
+                    "flight_number": "VY 3215",
+                    "ticket_also_sold_by": [
+                        "Iberia"
+                    ],
+                    "legroom": "29 in",
+                    "extensions": [
+                        "Below average legroom (29 in)",
+                        "Wi-Fi for a fee",
+                        "In-seat USB outlet",
+                        "Stream media to your device",
+                        "Carbon emissions estimate: 188 kg"
+                    ]
+                }
+            ],
+            "total_duration": 200,
+            "carbon_emissions": {
+                "this_flight": 188000,
+                "typical_for_this_route": 213000,
+                "difference_percent": -12
+            },
+            "price": 355,
+            "type": "Round trip",
+            "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/VY.png",
+            "departure_token": "WyJDalJJVDJwMWVWZFZTbFJzTUdOQlEydFVTVkZDUnkwdExTMHRMUzB0Y0daaVpXMDFNMEZCUVVGQlIzQlhTVjkzU2xWclZ5MUJFZ1pXV1RNeU1UVWFDd2lxbFFJUUFob0RSVlZTT0J4dytyc0MiLFtbIlRGTiIsIjIwMjYtMDgtMTQiLCJCQ04iLG51bGwsIlZZIiwiMzIxNSJdXV0="
+        },
+        {
+            "flights": [
+                {
+                    "departure_airport": {
+                        "name": "Tenerife North Airport",
+                        "id": "TFN",
+                        "time": "2026-08-14 20:15"
+                    },
+                    "arrival_airport": {
+                        "name": "Josep Tarradellas Barcelona-El Prat Airport",
+                        "id": "BCN",
+                        "time": "2026-08-15 00:35"
+                    },
+                    "duration": 200,
+                    "airplane": "Airbus A320",
+                    "airline": "Vueling",
+                    "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/VY.png",
+                    "travel_class": "Economy",
+                    "flight_number": "VY 3209",
+                    "ticket_also_sold_by": [
+                        "Iberia"
+                    ],
+                    "legroom": "29 in",
+                    "extensions": [
+                        "Below average legroom (29 in)",
+                        "Wi-Fi for a fee",
+                        "In-seat USB outlet",
+                        "Stream media to your device",
+                        "Carbon emissions estimate: 173 kg"
+                    ]
+                }
+            ],
+            "total_duration": 200,
+            "carbon_emissions": {
+                "this_flight": 173000,
+                "typical_for_this_route": 213000,
+                "difference_percent": -19
+            },
+            "price": 355,
+            "type": "Round trip",
+            "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/VY.png",
+            "departure_token": "WyJDalJJVDJwMWVWZFZTbFJzTUdOQlEydFVTVkZDUnkwdExTMHRMUzB0Y0daaVpXMDFNMEZCUVVGQlIzQlhTVjkzU2xWclZ5MUJFZ1pXV1RNeU1Ea2FDd2lxbFFJUUFob0RSVlZTT0J4dytyc0MiLFtbIlRGTiIsIjIwMjYtMDgtMTQiLCJCQ04iLG51bGwsIlZZIiwiMzIwOSJdXV0="
+        },
+        {
+            "flights": [
+                {
+                    "departure_airport": {
+                        "name": "Tenerife North Airport",
+                        "id": "TFN",
+                        "time": "2026-08-14 14:30"
+                    },
+                    "arrival_airport": {
+                        "name": "Adolfo Suárez Madrid-Barajas Airport",
+                        "id": "MAD",
+                        "time": "2026-08-14 18:15"
+                    },
+                    "duration": 165,
+                    "airplane": "Boeing 737",
+                    "airline": "Air Europa",
+                    "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/UX.png",
+                    "travel_class": "Economy",
+                    "flight_number": "UX 9049",
+                    "legroom": "29 in",
+                    "extensions": [
+                        "Below average legroom (29 in)",
+                        "In-seat USB outlet",
+                        "Stream media to your device",
+                        "Carbon emissions estimate: 139 kg"
+                    ]
+                },
+                {
+                    "departure_airport": {
+                        "name": "Adolfo Suárez Madrid-Barajas Airport",
+                        "id": "MAD",
+                        "time": "2026-08-15 07:30"
+                    },
+                    "arrival_airport": {
+                        "name": "Josep Tarradellas Barcelona-El Prat Airport",
+                        "id": "BCN",
+                        "time": "2026-08-15 08:55"
+                    },
+                    "duration": 85,
+                    "airplane": "Boeing 787",
+                    "airline": "Air Europa",
+                    "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/UX.png",
+                    "travel_class": "Economy",
+                    "flight_number": "UX 7701",
+                    "legroom": "31 in",
+                    "extensions": [
+                        "Average legroom (31 in)",
+                        "In-seat power & USB outlets",
+                        "On-demand video",
+                        "Carbon emissions estimate: 57 kg"
+                    ]
+                }
+            ],
+            "layovers": [
+                {
+                    "duration": 795,
+                    "name": "Adolfo Suárez Madrid-Barajas Airport",
+                    "id": "MAD"
+                }
+            ],
+            "total_duration": 1045,
+            "carbon_emissions": {
+                "this_flight": 196000,
+                "typical_for_this_route": 213000,
+                "difference_percent": -8
+            },
+            "price": 467,
+            "type": "Round trip",
+            "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/UX.png",
+            "departure_token": "WyJDalJJVDJwMWVWZFZTbFJzTUdOQlEydFVTVkZDUnkwdExTMHRMUzB0Y0daaVpXMDFNMEZCUVVGQlIzQlhTVjkzU2xWclZ5MUJFZzFWV0Rrd05EbDhWVmczTnpBeEdnc0kyZXdDRUFJYUEwVlZVamdjY0w2ZkF3PT0iLFtbIlRGTiIsIjIwMjYtMDgtMTQiLCJNQUQiLG51bGwsIlVYIiwiOTA0OSJdLFsiTUFEIiwiMjAyNi0wOC0xNSIsIkJDTiIsbnVsbCwiVVgiLCI3NzAxIl1dXQ=="
+        },
+        {
+            "flights": [
+                {
+                    "departure_airport": {
+                        "name": "Tenerife North Airport",
+                        "id": "TFN",
+                        "time": "2026-08-14 11:20"
+                    },
+                    "arrival_airport": {
+                        "name": "Adolfo Suárez Madrid-Barajas Airport",
+                        "id": "MAD",
+                        "time": "2026-08-14 15:05"
+                    },
+                    "duration": 165,
+                    "airplane": "Airbus A321neo",
+                    "airline": "Iberia",
+                    "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/IB.png",
+                    "travel_class": "Business Class",
+                    "flight_number": "IB 1566",
+                    "legroom": "30 in",
+                    "extensions": [
+                        "Average legroom (30 in)",
+                        "In-seat power & USB outlets",
+                        "Stream media to your device",
+                        "Carbon emissions estimate: 222 kg"
+                    ],
+                    "plane_and_crew_by": "Iberia Express"
+                },
+                {
+                    "departure_airport": {
+                        "name": "Adolfo Suárez Madrid-Barajas Airport",
+                        "id": "MAD",
+                        "time": "2026-08-14 16:55"
+                    },
+                    "arrival_airport": {
+                        "name": "Josep Tarradellas Barcelona-El Prat Airport",
+                        "id": "BCN",
+                        "time": "2026-08-14 18:10"
+                    },
+                    "duration": 75,
+                    "airplane": "Airbus A320",
+                    "airline": "Iberia",
+                    "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/IB.png",
+                    "travel_class": "Business Class",
+                    "flight_number": "IB 419",
+                    "legroom": "30 in",
+                    "extensions": [
+                        "Average legroom (30 in)",
+                        "Wi-Fi for a fee",
+                        "In-seat power & USB outlets",
+                        "Carbon emissions estimate: 92 kg"
+                    ]
+                }
+            ],
+            "layovers": [
+                {
+                    "duration": 110,
+                    "name": "Adolfo Suárez Madrid-Barajas Airport",
+                    "id": "MAD"
+                }
+            ],
+            "total_duration": 350,
+            "carbon_emissions": {
+                "this_flight": 314000,
+                "typical_for_this_route": 213000,
+                "difference_percent": 47
+            },
+            "price": 508,
+            "type": "Round trip",
+            "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/IB.png",
+            "departure_token": "WyJDalJJVDJwMWVWZFZTbFJzTUdOQlEydFVTVkZDUnkwdExTMHRMUzB0Y0daaVpXMDFNMEZCUVVGQlIzQlhTVjkzU2xWclZ5MUJFZ3hKUWpFMU5qWjhTVUkwTVRrYUN3aVVqQU1RQWhvRFJWVlNPQnh3cXNNRCIsW1siVEZOIiwiMjAyNi0wOC0xNCIsIk1BRCIsbnVsbCwiSUIiLCIxNTY2Il0sWyJNQUQiLCIyMDI2LTA4LTE0IiwiQkNOIixudWxsLCJJQiIsIjQxOSJdXV0="
+        },
+        {
+            "flights": [
+                {
+                    "departure_airport": {
+                        "name": "Tenerife North Airport",
+                        "id": "TFN",
+                        "time": "2026-08-14 09:55"
+                    },
+                    "arrival_airport": {
+                        "name": "Adolfo Suárez Madrid-Barajas Airport",
+                        "id": "MAD",
+                        "time": "2026-08-14 13:40"
+                    },
+                    "duration": 165,
+                    "airplane": "Boeing 737MAX 8 Passenger",
+                    "airline": "Air Europa",
+                    "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/UX.png",
+                    "travel_class": "Economy",
+                    "flight_number": "UX 9047",
+                    "legroom": "29 in",
+                    "extensions": [
+                        "Below average legroom (29 in)",
+                        "In-seat USB outlet",
+                        "Stream media to your device",
+                        "Carbon emissions estimate: 120 kg"
+                    ]
+                },
+                {
+                    "departure_airport": {
+                        "name": "Adolfo Suárez Madrid-Barajas Airport",
+                        "id": "MAD",
+                        "time": "2026-08-14 15:10"
+                    },
+                    "arrival_airport": {
+                        "name": "Josep Tarradellas Barcelona-El Prat Airport",
+                        "id": "BCN",
+                        "time": "2026-08-14 16:35"
+                    },
+                    "duration": 85,
+                    "airplane": "Boeing 787",
+                    "airline": "Air Europa",
+                    "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/UX.png",
+                    "travel_class": "Economy",
+                    "flight_number": "UX 7703",
+                    "legroom": "31 in",
+                    "extensions": [
+                        "Average legroom (31 in)",
+                        "Wi-Fi for a fee",
+                        "In-seat power & USB outlets",
+                        "On-demand video",
+                        "Carbon emissions estimate: 52 kg"
+                    ],
+                    "often_delayed_by_over_30_min": true
+                }
+            ],
+            "layovers": [
+                {
+                    "duration": 90,
+                    "name": "Adolfo Suárez Madrid-Barajas Airport",
+                    "id": "MAD"
+                }
+            ],
+            "total_duration": 340,
+            "carbon_emissions": {
+                "this_flight": 173000,
+                "typical_for_this_route": 213000,
+                "difference_percent": -19
+            },
+            "price": 515,
+            "type": "Round trip",
+            "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/UX.png",
+            "departure_token": "WyJDalJJVDJwMWVWZFZTbFJzTUdOQlEydFVTVkZDUnkwdExTMHRMUzB0Y0daaVpXMDFNMEZCUVVGQlIzQlhTVjkzU2xWclZ5MUJFZzFWV0Rrd05EZDhWVmczTnpBekdnc0luWklERUFJYUEwVlZVamdjY0ovS0F3PT0iLFtbIlRGTiIsIjIwMjYtMDgtMTQiLCJNQUQiLG51bGwsIlVYIiwiOTA0NyJdLFsiTUFEIiwiMjAyNi0wOC0xNCIsIkJDTiIsbnVsbCwiVVgiLCI3NzAzIl1dXQ=="
+        }
+    ],
+    "price_insights": {
+        "lowest_price": 284,
+        "price_level": "typical",
+        "typical_price_range": [
+            220,
+            315
+        ],
+        "price_history": [
+            [
+                1778713200,
+                271
+            ],
+            [
+                1778799600,
+                203
+            ],
+            [
+                1778886000,
+                237
+            ],
+            [
+                1778972400,
+                237
+            ],
+            [
+                1779058800,
+                245
+            ],
+            [
+                1779145200,
+                263
+            ],
+            [
+                1779231600,
+                263
+            ],
+            [
+                1779318000,
+                263
+            ],
+            [
+                1779404400,
+                263
+            ],
+            [
+                1779490800,
+                263
+            ],
+            [
+                1779577200,
+                263
+            ],
+            [
+                1779663600,
+                263
+            ],
+            [
+                1779750000,
+                272
+            ],
+            [
+                1779836400,
+                272
+            ],
+            [
+                1779922800,
+                261
+            ],
+            [
+                1780009200,
+                236
+            ],
+            [
+                1780095600,
+                261
+            ],
+            [
+                1780182000,
+                261
+            ],
+            [
+                1780268400,
+                261
+            ],
+            [
+                1780354800,
+                281
+            ],
+            [
+                1780441200,
+                317
+            ],
+            [
+                1780527600,
+                310
+            ],
+            [
+                1780614000,
+                317
+            ],
+            [
+                1780700400,
+                317
+            ],
+            [
+                1780786800,
+                327
+            ],
+            [
+                1780873200,
+                285
+            ],
+            [
+                1780959600,
+                285
+            ],
+            [
+                1781046000,
+                265
+            ],
+            [
+                1781132400,
+                265
+            ],
+            [
+                1781218800,
+                265
+            ],
+            [
+                1781305200,
+                285
+            ],
+            [
+                1781391600,
+                285
+            ],
+            [
+                1781478000,
+                285
+            ],
+            [
+                1781564400,
+                285
+            ],
+            [
+                1781650800,
+                238
+            ],
+            [
+                1781737200,
+                216
+            ],
+            [
+                1781823600,
+                216
+            ],
+            [
+                1781910000,
+                228
+            ],
+            [
+                1781996400,
+                228
+            ],
+            [
+                1782082800,
+                228
+            ],
+            [
+                1782169200,
+                217
+            ],
+            [
+                1782255600,
+                217
+            ],
+            [
+                1782342000,
+                205
+            ],
+            [
+                1782428400,
+                205
+            ],
+            [
+                1782514800,
+                205
+            ],
+            [
+                1782601200,
+                198
+            ],
+            [
+                1782687600,
+                215
+            ],
+            [
+                1782774000,
+                215
+            ],
+            [
+                1782860400,
+                215
+            ],
+            [
+                1782946800,
+                215
+            ],
+            [
+                1783033200,
+                271
+            ],
+            [
+                1783119600,
+                258
+            ],
+            [
+                1783206000,
+                236
+            ],
+            [
+                1783292400,
+                226
+            ],
+            [
+                1783378800,
+                247
+            ],
+            [
+                1783465200,
+                243
+            ],
+            [
+                1783551600,
+                243
+            ],
+            [
+                1783638000,
+                316
+            ],
+            [
+                1783724400,
+                327
+            ],
+            [
+                1783810800,
+                320
+            ],
+            [
+                1783897200,
+                320
+            ],
+            [
+                1783983600,
+                284
+            ]
+        ]
+    },
+    "airports": [
+        {
+            "departure": [
+                {
+                    "airport": {
+                        "id": "TFN",
+                        "name": "Tenerife North Airport"
+                    },
+                    "city": "Tenerife",
+                    "country": "Spain",
+                    "country_code": "ES",
+                    "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRI8v9KelN5d7eYVBp4s9O5yIZSyRSVEIAlONp-ZdNYT1QvJeANZ5Gkhwl7dabhdw2slq9S20BzaFyIfA",
+                    "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRiUB--nrhKWGD5l9qTH-7Cvu8XyXzJlLsPfvMXu9PsTav0rQrV0RCKgfp6X4fZX1uuhxkN2xn1VpFnVJJAxaAe7lh8XdBkPRwk1_OvTKo"
+                }
+            ],
+            "arrival": [
+                {
+                    "airport": {
+                        "id": "BCN",
+                        "name": "Josep Tarradellas Barcelona-El Prat Airport"
+                    },
+                    "city": "Barcelona",
+                    "country": "Spain",
+                    "country_code": "ES",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOk3xypjQxrqfZPlTUH5lubWcGBzOkdXv7IVkOL--w1FYohepC2Y1hN69JZMcmQsAOt2hIy7EWP0SfXA",
+                    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm8RLrNH5mwpZ7VV_y8imJgifZndKGVUDYaU5-3_hF41Qrpet1SbU1az4wU48pwjNcbuAC9cYwCNqDCxMF1MgcMCvzO0P__9pb0Q9JBGM"
+                }
+            ]
+        },
+        {
+            "departure": [
+                {
+                    "airport": {
+                        "id": "BCN",
+                        "name": "Josep Tarradellas Barcelona-El Prat Airport"
+                    },
+                    "city": "Barcelona",
+                    "country": "Spain",
+                    "country_code": "ES",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOk3xypjQxrqfZPlTUH5lubWcGBzOkdXv7IVkOL--w1FYohepC2Y1hN69JZMcmQsAOt2hIy7EWP0SfXA",
+                    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm8RLrNH5mwpZ7VV_y8imJgifZndKGVUDYaU5-3_hF41Qrpet1SbU1az4wU48pwjNcbuAC9cYwCNqDCxMF1MgcMCvzO0P__9pb0Q9JBGM"
+                }
+            ],
+            "arrival": [
+                {
+                    "airport": {
+                        "id": "TFN",
+                        "name": "Tenerife North Airport"
+                    },
+                    "city": "Tenerife",
+                    "country": "Spain",
+                    "country_code": "ES",
+                    "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRI8v9KelN5d7eYVBp4s9O5yIZSyRSVEIAlONp-ZdNYT1QvJeANZ5Gkhwl7dabhdw2slq9S20BzaFyIfA",
+                    "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRiUB--nrhKWGD5l9qTH-7Cvu8XyXzJlLsPfvMXu9PsTav0rQrV0RCKgfp6X4fZX1uuhxkN2xn1VpFnVJJAxaAe7lh8XdBkPRwk1_OvTKo"
+                }
+            ]
+        }
+    ]
+}
