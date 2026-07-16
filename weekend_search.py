@@ -85,9 +85,9 @@ async def main():
         print("Ничего не найдено")
         return
 
-if best_offer["price"] > 50:
-    print("Цена выше 50 €, сообщение не отправляется.")
-    return
+    if best_offer["price"] > 50:
+        print("Цена выше 50 €, сообщение не отправляется.")
+        return
 
     message = f"""
 🔥 Лучшее предложение
